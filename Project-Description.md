@@ -1,30 +1,37 @@
-# Autonomous Lawn Mower
+# Kea Enrichment
 ## Team Members
 * Max Kern: kernmx@mail.uc.edu
-* Robert Betschman: 
-* John Siegel:
-* Colin McNally: 
+* Robert Betschman: betschrr@mail.uc.edu
+* John Siegel: siegeljp@mail.uc.edu
+* Colin McNally: mcnallcw@mail.uc.edu
 ## Faculty Advisor
-* TBD
+* Dieter Vanderelst
 ## Description
-        Autonomous Lawn Mower is a smart self driving lawn mower capable of handling complex lawns without secondary systems.
-        Autonomous
+        Kea Enrichment is a project focusing on the enrichment of the lives of Kea kept in captivity at 
+        the cincinnati zoo.
 ## Problem Statement
-        Current implementations of autonoumous lawn mowing systems are inadequate in the way they mow lawns. 
+        The kea is a species of very smart birds at the Cincinnati Zoo. These birds are
+        very curious but can also be destructive in their curiosity. They will usually pry apart and
+        attempt to understand toys given to them. For this reason, kea need to have toys that
+        are both engaging and durable to withstand the kea’s tinkering. The kea is an interesting
+        species of bird and the zookeepers and staff of the zoo wish to be able to demonstrate
+        this to zoo visitors.
 ## Current Shortcomings
-        Current implementations of autonoumous lawn mowing systems require the use of secondary hardware such as a guiding wire.
-        This leads to added costs and an inherit limit to the size and scope of how much distance the unit can cover out of the box.
-        Current implementations are also limited by the fact that they follow a random walk path, meaning that current systems mow
-        in straight lines until they come into contact with an object such as a rock or childs toy at which point they will turn
-        and continue mowing. This leads to inelegant mowing and asthetically displeasing mow lines.
+        There currently do not exist any enrichment devices for Kea
 ## Group Skils and Interests
-* Autonomous AI programming
-* Robotics programming and assembly
+* Game Development
+* AI Programming
+* Embedded Systems
+* Curcuit Development
 ## Approach and Goals
-        Our group plans to implement an autonomous lawn mower that will use imaging of a yard along with gps positioning to
-        navigate and mow a lawn in an elegant and asthetically pleasing manner.
+        In order to mentally stimulate the kea in a constructive way, as well as to further
+        engage the zoo visitors, a new exhibit will be created that can allow the kea to play a
+        game with zoo visitors. This exhibit will have an element that the zoo visitor can interact
+        with and an element the kea can interact with. The game will start simply and increase
+        in complexity over time. The game will give a reward to the kea for winning. These games will
+        be both mechanical and software in nature.
 Our group has the following goals:
-* Web or mobile application to interact with the lawn mower and feed it instructions (satellite or map images), style of
-  cut (mow lines pattern)
-* A physical prototype of the lawn mower
-* A demo video showcasing the full extent of the AI andmowing process  
+* A game engine that can connect Kea and zoo guests in simple games such as tic-tac-toe, etc...
+* A way of rewarding the Kea for participating in games
+* A way to have dynamic difficulty to keep Kea engaged
+* Cooperative play 
