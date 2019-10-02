@@ -14,4 +14,3 @@ python simonsays.py
 * R_Key = Red
 * B_Key = Blue
 * G_Key = Green
-* Alternatively Click on the corresponding color on screen
