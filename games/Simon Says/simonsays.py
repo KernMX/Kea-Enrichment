@@ -4,8 +4,8 @@
 import random, sys, time, pygame
 from pygame.locals import *
 
-WIDTH = 640
-HEIGHT = 480
+WIDTH = 960
+HEIGHT = 720
 XMARGIN = WIDTH // 10
 YMARGIN = HEIGHT // 10
 DELAY = 2000 # in milliseconds
