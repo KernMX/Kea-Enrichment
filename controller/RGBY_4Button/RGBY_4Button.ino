@@ -13,17 +13,21 @@ void loop() {
   if(digitalRead(0)){
     Keyboard.press('r');
     Keyboard.release('r');
+    delay(500);
   }
   if(digitalRead(1)){
     Keyboard.press('g');
     Keyboard.release('g');
+    delay(500);
   }
   if(digitalRead(2)){
     Keyboard.press('b');
     Keyboard.release('b');
+    delay(500);
   }
   if(digitalRead(3)){
     Keyboard.press('y');
     Keyboard.release('y');
+    delay(500);
   }
 }
