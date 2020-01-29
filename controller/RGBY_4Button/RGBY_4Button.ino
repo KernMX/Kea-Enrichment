@@ -1,5 +1,5 @@
 #include <Keyboard.h>
-
+//
 void setup() {
   // put your setup code here, to run once:
   //Initialize pins as output
@@ -13,21 +13,21 @@ void loop() {
   if(digitalRead(0)){
     Keyboard.press('r');
     Keyboard.release('r');
-    delay(500);
+    delay(200);
   }
   if(digitalRead(1)){
     Keyboard.press('g');
     Keyboard.release('g');
-    delay(500);
+    delay(200);
   }
   if(digitalRead(2)){
     Keyboard.press('b');
     Keyboard.release('b');
-    delay(500);
+    delay(200);
   }
   if(digitalRead(3)){
     Keyboard.press('y');
     Keyboard.release('y');
-    delay(500);
+    delay(200);
   }
 }
